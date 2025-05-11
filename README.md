@@ -24,6 +24,3 @@ The following Python libraries were utilized in this EDA project:
     * `LabelEncoder` for encoding categorical features (`from sklearn.preprocessing import LabelEncoder`).
     * `StandardScaler` for standardizing numerical features (`from sklearn.preprocessing import StandardScaler`).
 
-## Project Structure (Optional)
-
-If your project has a specific structure, you can describe it here. For example:
